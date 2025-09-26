@@ -7,7 +7,7 @@ workers_dev = false
 
 routes = [
   "sdzl-xget.aphd.cn/*",
-  "*.sdzl-xget.hxorz.cn/*",
+  "*.sdzl-xget.aphd.cn/*",
 ]
 
 [observability]
