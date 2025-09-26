@@ -6,8 +6,8 @@ compatibility_flags = ["nodejs_compat"]
 workers_dev = false
 
 routes = [
-  "hxorz.cn/*",
-  "*.hxorz.cn/*",
+  "sdzl-xget.aphd.cn/*",
+  "*.sdzl-xget.hxorz.cn/*",
 ]
 
 [observability]
